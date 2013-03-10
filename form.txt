@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<body bgcolor="yellow">
+<p align="center"><b><font color="green" size = 15> 
+<blink> <strong>FORM BIODATA</strong></blink></font></p>
+<p>&nbsp; </p>
+<form name="form1" method="post" action="">
+  <strong><span id="sprytextfield1">
+  <label><p align="center"><b>NAMA&nbsp;</label>
+  </span></strong><span id="sprytextfield1">
+  <label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="text" name="Nama" id="Nama">
+  </label>
+  </span>
+  <p align="center">  
+</form>
+<p align="center">
+<script type="text/javascript">
+<!--
+var sprytextfield1 = new Spry.Widget.ValidationTextField("sprytextfield1");
+//-->
+</script>
+<p align="center">
+<form name="form2" method="post" action="">
+  <span id="sprytextfield2">
+  <label><p align="center"><b><strong>NIM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input name="NIM" type="text" id="NIM">
+  </label>
+  <br />
+</form>
+<form name="form3" method="post" action=""><p align="center"><b><strong>ALAMAT</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="text" name="ALAMAT" id="ALAMAT">
+  </label>
+  <br />
+</form>
+<form name="form4" method="post" action="">
+  <span id="spryselect1">
+  <label><p align="center"><b><strong>JURUSAN</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <select name="JURUSAN" id="JURUSAN">
+      <option value="TEKNIK ELEKTRO">TEKNIK ELEKTRO</option>
+      <option value="TEKNIK MESIN">TEKNIK MESIN</option>
+      <option value="TEKNIK SIPIL">TEKNIK SIPIL</option>
+      <option value="TEKNIK INDUSTRI">TEKNIK INDUSTRI</option>
+    </select>
+</form>
+<form name="form5" method="post" action="">
+  <p align="center"><b><strong>ANGKATAN</strong></p>
+  <p align="center">
+  <input type="radio" name="ANGKATAN" value="radio" id="ANGKATAN_0">
+    2008</label>
+  <br>
+  <label>
+    <input type="radio" name="ANGKATAN" value="radio" id="ANGKATAN_1">
+    2009</label>
+  <br>
+  <label>
+    <input type="radio" name="ANGKATAN" value="radio" id="ANGKATAN_2">
+    2010</label>
+  <br>
+  <label>
+    <input type="radio" name="ANGKATAN" value="radio" id="ANGKATAN_3">
+    2011</label>
+  <br>
+  <label>
+    <input type="radio" name="ANGKATAN" value="radio" id="ANGKATAN_4">
+    2012</label>
+  <br />
+  </span>
+</form>
+<form name="form6" method="post" action="">
+  <p>
+    <label><p align="center"><b><strong>JENIS KELAMIN</strong> &nbsp;
+      <select name="KELAMIN" id="KELAMIN">
+        <option>LAKI - LAKI</option>
+        <option>PEREMPUAN</option>
+      </select>
+    </label>
+</form>
+<form id="form7" name="form7" method="post" action="">
+  <label><p align="center"><b><strong>HOBBY</strong>
+    <br />
+    <br />
+    <textarea name="HOBBY" id="HOBBY" cols="45" rows="5"></textarea>
+  </label>
+</form>
+<p>&nbsp; </p>
+<body>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<style type="text/css">
+<!--
+.BIODATA {
+	font-family: Courier New, Courier, monospace;
+}
+-->
+</style>
+
+</head>
+
+<!-- memberi warna aqua di body -->
+<body bgcolor="black">
+<p align="center"><b><font color="RED" size = 12> 
+<marquee>
+<scrolldelay=1><em>Elyana Frisca Monica 110533430575 PTI OFF C
+</em>
+</marquee>
+</scrolldelay=1></b></font>
+
+
+<p align="CENTER"><blink><img src="um.jpg" alt="um" width="106" height="98" /> </blink></p>
+<h5 align="CENTER"><strong><font color="white" size = 3>UNIVERSITAS NEGERI MALANG</strong></h5>
+<h5 align="CENTER"><strong>TEKNIK ELEKTRO. </strong><strong>S1 PENDIDIKAN TEKNIK INFORMATIKA</strong></h5>
+
+<hr line color="red" size=4 />
+
+ <p align="center" class="BIODATA"><strong><font color="blue" size = 6> IDENTITAS MAHASISWA </strong>
+ 
+ <p align="center"><font color="yellow" size = 5s>
+ <div align="center"><strong>Elyana Frisca Monica</strong> </strong></div>
+ <p align="center"><strong>110533430575
+ </strong>
+ <p align="center">Tulungagung, 4 Mei 1992
+ <p align="center">Islam
+ <p align="center"><em><u>Teknik Elektro / S1 Pendidikan Teknik Informatika / Off C 2011
+ </u></em>
+ <p align="center"><em>Ds.Kalangan, Kec. Ngunut, Kab. Tulungagung
+ </em>
+ <p align="justify"> 
+<p align="justify"> 
+</body>
